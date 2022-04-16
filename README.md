@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anjuman Raj</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-- 🔭 I’m currently working on **FrontEnd Projects**
+- 🔭 I’m currently working on **Open Source Contributions**
 
-- 🌱 I’m currently learning **BackEnd Development**
+- 🌱 I’m currently learning **BackEnd Development and DevOps**
 
 - 👯 I’m looking to collaborate on **ReactJs & NextJs TechStack**
 
